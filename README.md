@@ -1,6 +1,8 @@
-### Hi there 👋
+<div align=center>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=119DF7&width=435&lines=Oi%2C+meu+nome+%C3%A9+Iuri+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-
+</div>
 <div>
   <a href="https://github.com/iuri-naturesa">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=iuri-naturesa&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
